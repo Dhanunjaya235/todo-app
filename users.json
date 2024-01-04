@@ -1,0 +1,76 @@
+{
+  "registeredUsers": [
+    {
+      "Username": "Dhanunjay",
+      "Email": "dhanu123@gmail.com",
+      "Gender": "Male",
+      "DateOfBirth": "2023-03-16",
+      "Country": "india",
+      "CountryCode": "+91",
+      "Phone": "9177299229",
+      "Password": "Dhanu123@",
+      "ConfirmPassword": "Dhanu123@",
+      "id": 1
+    },
+    {
+      "Username": "Madhu",
+      "Email": "madhu123@gmail.com",
+      "Gender": "Male",
+      "DateOfBirth": "2023-03-17",
+      "Country": "india",
+      "CountryCode": "+91",
+      "Phone": "9059902562",
+      "Password": "Madhu123@",
+      "ConfirmPassword": "Madhu123@",
+      "id": 2
+    },
+    {
+      "Username": "Mani",
+      "Email": "mani@gmail.com",
+      "Gender": "Male",
+      "DateOfBirth": "2023-03-11",
+      "Country": "india",
+      "CountryCode": "+91",
+      "Phone": "9848022338",
+      "Password": "Mani123@",
+      "ConfirmPassword": "Mani123@",
+      "id": 3
+    },
+    {
+      "Username": "Vamsi",
+      "Email": "vamsi@gmail.com",
+      "Gender": "Male",
+      "DateOfBirth": "2023-03-15",
+      "Country": "india",
+      "CountryCode": "+91",
+      "Phone": "9032789988",
+      "Password": "Vamsi@123",
+      "ConfirmPassword": "Vamsi@123",
+      "id": 4
+    },
+    {
+      "Username": "SaiRam",
+      "Email": "sairam@gmail.com",
+      "Gender": "Male",
+      "DateOfBirth": "2023-03-07",
+      "Country": "australia",
+      "CountryCode": "+61",
+      "Phone": "0412345678",
+      "Password": "Sairam123@",
+      "ConfirmPassword": "Sairam123@",
+      "id": 5
+    },
+    {
+      "Username": "Bharat",
+      "Email": "bharat123@gmail.com",
+      "Gender": "Male",
+      "DateOfBirth": "2023-03-01",
+      "Country": "india",
+      "CountryCode": "+91",
+      "Phone": "8790785643",
+      "Password": "Bharat1234@",
+      "ConfirmPassword": "Bharat1234@",
+      "id": 6
+    }
+  ]
+}
